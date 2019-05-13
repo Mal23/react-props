@@ -3,7 +3,6 @@ import Dog from './Dog';
 import Header from './Header';
 
 export default function App() {
-  console.log('hi');
   return (
     <>
       <Header />
